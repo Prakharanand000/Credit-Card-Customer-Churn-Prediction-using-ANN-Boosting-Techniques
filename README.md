@@ -407,6 +407,3 @@ All models optimized using **GridSearchCV** with 5-fold cross-validation, optimi
 ---
 
 ⭐ **If you found this project helpful, please consider giving it a star!**
-
-
-**Made with ❤️ and Python**
